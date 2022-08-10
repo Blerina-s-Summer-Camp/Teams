@@ -1,6 +1,8 @@
 Each student, will upload their work, in the branches he/she belongs.
 Example:
 If you are in the branched named Grupi-1, you click on it, then upload your code.
+The branched named "main", is only used by the Teacher.
+DO NOT FORK each-others projects, unless you worked together, in a team.
 Thank you.
 
 Sincerely,
