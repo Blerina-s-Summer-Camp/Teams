@@ -1,0 +1,7 @@
+Each student, will upload their work, in the branches he/she belongs.
+Example:
+If you are in the branched named Grupi-1, you click on it, then upload your code.
+Thank you.
+
+Sincerely,
+Blerina Demaj
