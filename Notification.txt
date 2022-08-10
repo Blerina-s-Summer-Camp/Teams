@@ -1,8 +1,11 @@
-Each student, will upload their work, in the branches he/she belongs.
+Each student, will upload their work in Github Classroom.
 Example:
-If you are in the branched named Grupi-1, you click on it, then upload your code.
-The branched named "main", is only used by the Teacher.
+The Repositories in the organization Blerina-s-Summer-Camp are only used by the Teacher.
+Also to upload your home work(named Assignment) are in classroom, in this link: https://classroom.github.com/classrooms
+To post your Assigment accept this link : https://classroom.github.com/a/HiZOVUIX
+After you accept this link, your repository will be created for each one of you, and you will post your project there.
 DO NOT FORK each-others projects, unless you worked together, in a team.
+
 Thank you.
 
 Sincerely,
