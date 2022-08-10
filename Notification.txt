@@ -1,5 +1,4 @@
 Each student, will upload their work in Github Classroom.
-Example:
 The Repositories in the organization Blerina-s-Summer-Camp are only used by the Teacher.
 Also to upload your home work(named Assignment) are in classroom, in this link: https://classroom.github.com/classrooms
 To post your Assigment accept this link : https://classroom.github.com/a/HiZOVUIX
